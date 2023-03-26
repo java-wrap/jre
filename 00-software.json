@@ -1,0 +1,11 @@
+{
+  "software": [
+    {
+      "name": "zulu17-jre",
+      "version": "17.40.19",
+      "path": "/bin",
+      "url": "https://github.com/java-wrap/jre/releases/download/64bit/zulu17-jre-17.40.19.zip",
+      "ext": "zip"
+    }
+  ]
+}
